@@ -1,5 +1,5 @@
 # Here is a list:
-Oranges
-Tomatoes
-Cucumbers
-Apples
+- Oranges
+- Tomatoes
+- Cucumbers
+- Apples
